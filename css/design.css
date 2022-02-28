@@ -1,6 +1,10 @@
-
+* {
+    box-sizing: border-box;
+}
 body{
     background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
 }
 
 
@@ -127,6 +131,7 @@ nav > ul {
     font-size: 50px;
     text-align: center;
     display: block;
+    font-weight: bold;
 }
 
 .sub-header {
@@ -214,6 +219,32 @@ nav > ul {
     font-weight: bold;
     margin-right: 8px;
 }
-.main-content h4 {
+#selected-work {
     text-align: center;
+    font-family: abel-regular, Sans-serif;
+    margin-bottom: 2.5em;
+    margin-top: 7em;
+}
+.project-image {
+    border: solid lightgrey 10px;
+   margin: auto;
+    border-radius: 1%;
+}
+
+.font-style a h4{
+    font-family: abel-regular, Sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.font-style2 {
+    font-family: anton-regular, Sans-serif;
+}
+
+#featured-project {
+    font-family: abel-regular, Sans-serif;
+}
+
+.main-content {
+    margin: 0 2em 1em 2em;
 }
