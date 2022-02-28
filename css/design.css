@@ -231,7 +231,7 @@ nav > ul {
     border-radius: 1%;
 }
 
-.font-style a h6{
+.font-style, a, h6{
     font-family: abel-regular, Sans-serif;
     text-decoration: none;
     color: black;
@@ -239,6 +239,7 @@ nav > ul {
 
 .font-style2 {
     font-family: anton-regular, Sans-serif;
+
 }
 
 #featured-project {
