@@ -128,5 +128,39 @@ nav > ul {
 }
 
 .sub-header {
-    background: lightgrey;
+    background: #f0f0f0;
+}
+.circles {
+}
+
+#circle1 {
+    border: solid white 10px;
+    border-radius: 50%;
+    width: 105px;
+    height: 105px;
+    background-color:  #e6563b;
+}
+#circle2 {
+    border: solid white 10px;
+    border-radius: 50%;
+    width: 105px;
+    height: 105px;
+    background-color: #dea03d;
+}
+#circle3 {
+    border: solid white 10px;
+    border-radius: 50%;
+    width: 105px;
+    height: 105px;
+    background-color: #7cb06c;
+}
+#circle4 {
+    border: solid white 10px;
+    border-radius: 50%;
+    width: 105px;
+    height: 105px;
+    background-color: #00aba9;
+}
+.icon-centering{
+    text-align: center;
 }
