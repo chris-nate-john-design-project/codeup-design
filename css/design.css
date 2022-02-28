@@ -1,5 +1,7 @@
 
-
+body{
+    background-color: #f0f0f0;
+}
 
 
 /* Styles associated with NAV */
@@ -175,4 +177,50 @@ nav > ul {
 }
 .icon-centering{
     text-align: center;
+}
+#circle1 {
+    border: solid white 10px;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background-color:  #e6563b;
+    color: white;
+    align-items: center;
+    font-weight: bold;
+}
+#icon1 {
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    background-color:  #e6563b;
+    color: white;
+    align-items: center;
+    font-weight: bold;
+}
+#icon2 {
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    background-color: #dea03d;
+    color: white;
+    align-items: center;
+    font-weight: bold;
+}
+#icon3 {
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    background-color: #7cb06c;
+    color: white;
+    align-items: center;
+    font-weight: bold;
+}
+#icon4 {
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    background-color:#00aba9;
+    color: white;
+    align-items: center;
+    font-weight: bold;
 }
