@@ -136,30 +136,42 @@ nav > ul {
 #circle1 {
     border: solid white 10px;
     border-radius: 50%;
-    width: 105px;
-    height: 105px;
+    width: 150px;
+    height: 150px;
     background-color:  #e6563b;
+    color: white;
+    align-items: center;
+    font-weight: bold;
 }
 #circle2 {
     border: solid white 10px;
     border-radius: 50%;
-    width: 105px;
-    height: 105px;
+    width: 150px;
+    height: 150px;
     background-color: #dea03d;
+    color: white;
+    align-items: center;
+    font-weight: bold;
 }
 #circle3 {
     border: solid white 10px;
     border-radius: 50%;
-    width: 105px;
-    height: 105px;
+    width: 150px;
+    height: 150px;
     background-color: #7cb06c;
+    color: white;
+    align-items: center;
+    font-weight: bold;
 }
 #circle4 {
     border: solid white 10px;
     border-radius: 50%;
-    width: 105px;
-    height: 105px;
+    width: 150px;
+    height: 150px;
     background-color: #00aba9;
+    color: white;
+    align-items: center;
+    font-weight: bold;
 }
 .icon-centering{
     text-align: center;
