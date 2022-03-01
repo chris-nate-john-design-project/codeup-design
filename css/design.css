@@ -248,6 +248,14 @@ nav > ul {
     .medium-circle2{
         width: 50%;
     }
+
+    #selected-work {
+        text-align: start;
+    }
+    #featured-project {
+        font-size: 12px;
+    }
+
 }
 
 
